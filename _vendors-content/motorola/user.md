@@ -1,7 +1,7 @@
 ---
 manufacturer: 
     - motorola
-
+GT
 ---
 
 ## Background activity restrictions
